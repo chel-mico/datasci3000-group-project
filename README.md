@@ -1,6 +1,6 @@
 # datasci3000-group-project
 
-Group project for DATASCI3000
+Group project for DATASCI3000, by Endreas Yohannes, Dexter Yan, Sung Hyun Kim and Justin Lai
 
 ## Install
 
